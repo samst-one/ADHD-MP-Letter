@@ -4,7 +4,7 @@
 
 Dear {MP NAME},  
 
-My names is {YOUR NAME} and I am a constituent of {OUR CONSTITUENCY}. I am writing to you today because I am concerned about the recent BBC article pertaining to the extended waitlists of ADHD diagnosis’ in the UK. There is an 8 year backlog for ADHD diagnosis’ within many parts of the country, with ~200,000 people currently on the waitlist. ADHD is one of the most common and understood neurodevelopmental conditions, so its appalling to find out that the UK is letting so many people down in this way. This is something that’s particularly important to me as {EXPLAIN KEY REASONS AND ANY PERSONAL EXPERIENCES THAT HAVE INFORMED THIS}. The symptoms of ADHD vary from person to person, but from an economic perspective, studies consistently show that those with ADHD who are diagnosed and able to seek treatment earlier, are much less of an economic burden on the NHS, but also much less of a burden on other public resources (i.e the Police). The idea that we have a backlog of ~200,000 people waiting for a diagnosis is an economical failure that needs to be addressed.
+My names is {YOUR NAME} and I am a constituent of {OUR CONSTITUENCY}. I am writing to you today because I am concerned about the recent BBC article pertaining to the extended waitlists of ADHD diagnosis’ in the UK. There is an 8 year backlog for ADHD diagnosis’ within many parts of the country, with ~200,000 people currently on the waitlist. ADHD is one of the most common and understood neurodevelopmental conditions, so its appalling to find out that the UK is letting so many people down in this way. This is something that’s particularly important to me as {EXPLAIN KEY REASONS AND ANY PERSONAL EXPERIENCES THAT HAVE INFORMED THIS}. The symptoms of ADHD vary from person to person, but from an economic perspective, studies consistently show that those with ADHD who are diagnosed and able to seek treatment earlier, are much less of an economic burden on the NHS, but also much less of a burden on other public resources (i.e the police and social care). The idea that we have a backlog of ~200,000 people waiting for a diagnosis is an economical failure that needs to be addressed.
 
 And whilst there is an economical argument here, there is also a more humane reason for resolving this in that those diagnosed with ADHD and receive proper treatment go on to live happier, healthier lives, with a better understanding of who they are are a person. All of which are priceless to the individual, and has a massive impact for society as a whole.
 
@@ -12,7 +12,7 @@ I am asking you to take the following steps to address my concerns:
 
 - How are you pushing for earlier diagnosis’ within children (particularly for women and those in minority groups) to help prevent the build up of adults seeking diagnosis’ in later life?
 
-- How are you educating GPs about the symptoms of those with ADHD so that those presenting ADHD like symptoms are provided with adequate care?
+- How are you educating GPs about the symptoms of ADHD so that those presenting symptoms are provided with adequate care?
 
 - How are you pushing for the resolution of continued medication shortages which have been afflicting the ADHD community for nearing a year at this point?
 
